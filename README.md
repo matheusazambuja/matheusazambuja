@@ -7,15 +7,17 @@ my goal is to specialize my skills.
 
 ```javascript
 let matheusAzambuja = {
-  learningNow = [
-      'Javascript', 'Typescript', 'HTML', 'CSS', 'ReactJS', 'NextJS', 'Node'
+  learningNow = { 
+      techSkills = [
+          'Javascript', 'Typescript', 'HTML', 'CSS', 'ReactJS', 'NextJS', 'Node'
+      ],
+      speakLanguages = [
+          'Japonese', 'English'
+      ]
   ],
   nextKnowledge = {
       techSkills = [
           'Desings Pattern', 'Docker', 'ApiRest', 'GraphQL', 'Python', 'Java'
-      ],
-      speakLanguages = [
-          'Japonese', 'English'
       ]
 }
 
