@@ -6,10 +6,8 @@ Hi, I'm Matheus Azambuja, a Computer Science student at UFRGS for 2 years ago, i
 
 ```javascript
 let matheusAzambuja = {
-  learningNow = ['Javascript', 'Typescript', 'HTML', 'CSS', 
-                 'ReactJS', 'NextJS', 'Node']
-  nextKnowledge = ['Docker', 'ApiRest', 'GraphQL', 'Python', 
-                   'Java']
+  learningNow = ['Javascript', 'Typescript', 'HTML', 'CSS', 'ReactJS', 'NextJS', 'Node']
+  nextKnowledge = ['Docker', 'ApiRest', 'GraphQL', 'Python', 'Java']
 }
 console.log(matheusAzambuja)
 ```
