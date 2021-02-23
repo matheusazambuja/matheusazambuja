@@ -19,6 +19,10 @@ let matheusAzambuja = {
       techSkills = [
           'Desings Pattern', 'Docker', 'ApiRest', 'GraphQL', 'Python', 'Java'
       ]
+  },
+  outsideOfCodingIEnjoy = [
+      'Listen Music', 'Valorant Game', 'Twitch' 'CS-GO', 'LOL', 'Netflix'
+      ]
 }
 
 console.log(matheusAzambuja)
