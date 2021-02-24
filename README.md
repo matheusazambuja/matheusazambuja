@@ -1,12 +1,12 @@
 ### Hi 👋, I'm Matheus Azambuja!
 
+<a href="https://www.facebook.com/matheus.azambuja.96/">
+  <img src="https://img.shields.io/badge/Facebook-Follow%20me-blue">
+</a>
+
 <p align="center">
   <img width="390" height="390" src="https://octodex.github.com/images/Blacktocat_single_1.jpg">
 </p>
---------------------------------------------------------------------------------------------------------
-<a>
-  <img src="https://img.shields.io/badge/Facebook-Follow%20me-blue">
-</a>
 
 Hi, I'm Matheus Azambuja, a Computer Science student at UFRGS for 2 years ago, :rocket: in Brazil. Recently, web development enchanted me (Front End :heart:) and from this year on
 my goal is to specialize my skills.
