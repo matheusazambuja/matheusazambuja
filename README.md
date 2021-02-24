@@ -1,8 +1,10 @@
 ### Hi 👋, I'm Matheus Azambuja!
 
-<a href="https://www.facebook.com/matheus.azambuja.96/">
-  <img src="https://img.shields.io/badge/Facebook-Follow%20me-blue">
-</a>
+<div>
+  <a href="https://www.facebook.com/matheus.azambuja.96/">
+    <img src="https://img.shields.io/badge/Facebook-blue">
+  </a>
+</div>
 
 <p align="center">
   <img width="390" height="390" src="https://octodex.github.com/images/Blacktocat_single_1.jpg">
