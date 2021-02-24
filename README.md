@@ -1,4 +1,4 @@
-### ⚡ Hi 👋, I'm Matheus Azambuja! ⚡
+### Hi 👋, I'm Matheus Azambuja! ⚡
 <br>
 <div align="center">
   <a href="https://www.facebook.com/matheus.azambuja.96/">
