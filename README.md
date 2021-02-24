@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Matheus Azambuja!
 <br>
-<div>
+<div align="center">
   <a href="https://www.facebook.com/matheus.azambuja.96/">
     <img src="https://img.shields.io/badge/Facebook-.-blue">
   </a>
