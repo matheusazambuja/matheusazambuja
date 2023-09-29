@@ -25,7 +25,7 @@ my goal is to specialize my skills.
 let matheusAzambuja = {
   learningNow = { 
       techSkills = [
-          'Javascript', 'Typescript', 'HTML', 'CSS', 'ReactJS', 'NextJS', 'Node'
+          'Javascript', 'Typescript', 'HTML', 'CSS', 'Angular', 'RxJS', 'ReactJS', 'Jest/Jasmine', 'Testing Library'
       ],
       speakLanguages = [
           'Japonese', 'English'
@@ -37,7 +37,7 @@ let matheusAzambuja = {
       ]
   },
   outsideOfCodingIEnjoy = [
-      'Listen Music', 'Valorant Game', 'Twitch' 'CS-GO', 'LOL', 'Netflix'
+      'Listen Music', 'Twitch', 'CS 2'
       ]
 }
 
