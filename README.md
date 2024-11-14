@@ -24,7 +24,7 @@ my goal is to specialize my skills.
 ```javascript
 let matheusAzambuja = {
   learningNow: { 
-      techSkills: ['Javascript', 'Typescript', 'HTML', 'CSS', 'ReactJs', NextJs, 'RxJS', 'Jest', 'Testing Library'],
+      techSkills: ['Javascript', 'Typescript', 'ReactJs', 'NextJs', 'RxJS', 'Jest', 'Testing Library'],
       speakLanguages: ['Japonese', 'English']
   ],
   nextKnowledge: {
