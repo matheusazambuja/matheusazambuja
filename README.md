@@ -24,13 +24,13 @@ my goal is to specialize my skills.
 ```javascript
 let matheusAzambuja = {
   learningNow: { 
-      techSkills: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Angular', 'RxJS', 'ReactJS', 'Jest/Jasmine', 'Testing Library'],
+      techSkills: ['Javascript', 'Typescript', 'HTML', 'CSS', 'ReactJs', NextJs, 'RxJS', 'Jest', 'Testing Library'],
       speakLanguages: ['Japonese', 'English']
   ],
   nextKnowledge: {
       techSkills: ['Desings Pattern', 'Docker', 'ApiRest', 'GraphQL', 'Python', 'Java']
   },
-  outsideOfCodingIEnjoy: ['Listen Music', 'Twitch', 'CS 2']
+  outsideOfCodingIEnjoy: ['Bitcoin', 'Blockchain', 'Cycling', 'Gym', 'Listen Music', 'CS 2']
 }
 
 console.log(matheusAzambuja)
